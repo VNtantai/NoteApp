@@ -94,7 +94,7 @@ export default function App() {
         </main>
       </div>
 
-      <footer>Offline-ready • Lưu bằng IndexedDB • Markdown basic</footer>
+      {/* <footer>Offline-ready • Lưu bằng IndexedDB • Markdown basic</footer> */}
     </div>
   )
 }
